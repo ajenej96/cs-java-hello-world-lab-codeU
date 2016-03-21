@@ -1,5 +1,5 @@
 package com.flatironschool.javacs;
-
+import java.util.Properties;
 import static org.junit.Assert.assertTrue;
 
 /**
